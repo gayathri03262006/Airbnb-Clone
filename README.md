@@ -17,7 +17,7 @@ https://airbnb-clone-zcmh.onrender.com
 5. MongoDB (for data storage)
 
 ## Project Setup
-git clone https://github.com/gayathri03262006/Airbnb-Clone.git
-cd Airbnb-Clone
-npm install
-npm start
+git clone https://github.com/gayathri03262006/Airbnb-Clone.git  
+cd Airbnb-Clone  
+npm install  
+npm start  
