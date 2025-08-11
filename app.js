@@ -14,6 +14,8 @@ const flash = require("connect-flash");
 const passport = require("passport");
 const LocalStrategy = require("passport-local");
 
+const ExpressError = require("./utils/ExpressError");
+
 const multer  = require('multer')
 const upload = multer({ dest: 'uploads/' })
 
